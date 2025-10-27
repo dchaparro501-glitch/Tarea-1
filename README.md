@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progresión 7</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #4a90e2;
+            color: white;
+            text-align: center;
+            padding: 20px 10px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+
+        header p {
+            margin: 5px 0 0 0;
+            font-size: 1rem;
+        }
+
+        .content {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #4a90e2;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px 10px;
+            background-color: #333;
+            color: white;
+        }
+
+        a {
+            color: #4a90e2;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+
+            header p {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Progresión 7</h1>
+    <p>Naturaleza, Humanidad y Reflexiones Filosóficas</p>
+</header>
+
+<div class="content">
+
+    <div class="section">
+        <h2>Introducción</h2>
+        <p>En esta progresión se aborda la relación entre la humanidad y la naturaleza, explorando cómo los seres humanos a menudo excluyen a los seres no humanos o no vivos en su pensamiento y acciones. La finalidad es ofrecer elementos filosóficos que permitan analizar la experiencia humana desde una perspectiva no antropocéntrica, entendiendo que la existencia excede la vida humana y que los humanos forman parte de un conjunto mayor de seres vivos y procesos naturales independientes de la acción humana.</p>
+    </div>
+
+    <div class="section">
+        <h2>Dimensiones y categorías</h2>
+        <p>Se exploran diferentes dimensiones de lo natural y humano:</p>
+        <ul>
+            <li><strong>Visiones de lo natural:</strong> Lo innato y su socialización, la imitación y la percepción.</li>
+            <li><strong>Subcategorías:</strong> Estar juntos, utilización de lo colectivo, ecosistemas, vida no humana.</li>
+            <li><strong>Impacto de la ciencia y tecnología:</strong> Puede ser positivo o negativo para los animales y el medio ambiente.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Ética ambiental y derechos de los animales</h2>
+        <p>Es importante cuestionar cómo las acciones humanas afectan a los seres no humanos. Observa reportajes y casos reales de tu comunidad o región donde se cuestione la exclusión de seres no humanos:</p>
+        <p><a href="https://www.youtube.com/watch?v=AtmAmmalar" target="_blank">Ver reportaje sobre registro de maltrato animal</a></p>
+        <p>Reflexiona sobre cómo la ciencia y la tecnología impactan en los animales y el medio ambiente, identificando impactos positivos y negativos.</p>
+    </div>
+
+    <div class="section">
+        <h2>Arte y representación de lo no humano</h2>
+        <p>El arte ha sido históricamente antropocéntrico, centrado en los humanos y sus experiencias. Sin embargo, desde el siglo XX se observa una inclusión de la naturaleza y los seres no humanos en la obra artística.</p>
+        <ul>
+            <li><strong>Claude Monet:</strong> <em>Nympheas en fleur</em>, óleo sobre lienzo (1914-1917)</li>
+            <li><strong>Vincent van Gogh:</strong> <em>Zonnebloemen</em>, óleo (1888)</li>
+        </ul>
+        <p>Estas obras permiten reflexionar sobre cómo el arte puede representar la relación entre humanos y naturaleza, desafiando la visión centrada exclusivamente en el ser humano.</p>
+    </div>
+
+    <div class="section">
+        <h2>Reflexiones ontológicas</h2>
+        <p>La ontología estudia lo que existe y las relaciones entre los entes. Por ejemplo, la relación entre un color universal como el rojo y un objeto particular que lo posee, como una manzana. La filosofía social también estudia hechos mentales, como creencias y deseos, que siempre se refieren a algo y representan el mundo.</p>
+        <p>Este enfoque permite cuestionar la centralidad humana y considerar la vida de otros seres en nuestra comprensión del mundo.</p>
+    </div>
+
+    <div class="section">
+        <h2>Antropocentrismo y cultura occidental</h2>
+        <p>El antropocentrismo ubica al ser humano en el centro de todo, priorizando sus intereses sobre los de los demás seres. Ha influido en:</p>
+        <ul>
+            <li><strong>Renacimiento y Humanismo:</strong> Valoración del ser humano como creador y descubridor.</li>
+            <li><strong>Ciencia y Racionalismo:</strong> Dominio de la naturaleza mediante la razón y observación.</li>
+            <li><strong>Ilustración y Derechos Humanos:</strong> Énfasis en la dignidad y autonomía del individuo.</li>
+            <li><strong>Revolución Industrial y Tecnología:</strong> Prioridad del progreso humano, a veces a costa de la explotación ambiental.</li>
+        </ul>
+        <p>Actualmente, movimientos ambientalistas cuestionan esta visión, buscando equilibrio entre bienestar humano y respeto por la naturaleza.</p>
+    </div>
+
+    <div class="section">
+        <h2>Actividad final</h2>
+        <p>Reflexiona y escribe cómo el antropocentrismo afecta la percepción del mundo y la relación con los seres no humanos.</p>
+        <p>Definición: El antropocentrismo es la teoría que coloca al ser humano en el centro de todo, priorizando sus intereses sobre los demás seres.</p>
+        <p><a href="https://www.definicion.de.com/antropocentrismo/" target="_blank">Más información sobre antropocentrismo</a></p>
+    </div>
+
+</div>
+
+<footer>
+    &copy; 2025 Progresión 7. Todos los derechos a Chaparro.
+</footer>
+
+</body>
+</html>
